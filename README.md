@@ -1,7 +1,7 @@
 
 # Ethereum Developer Tools List
 A guide to available tools, components, patterns, and platforms for developing applications on Ethereum.
-
+ 
 Creation of this list was spurred by product managers at ConsenSys who saw a need for better sharing of tools, development patterns, and components amongst both new and experienced blockchain developers.
 
 This resource is meant to be focused on developer tools, but the repo also includes:
